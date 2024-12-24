@@ -5,7 +5,10 @@ import os
 app = Flask(__name__)
 from flask_cors import CORS
 
-CORS(app, resources={r"/*": {"origins": ["https://bananart.xyz", "https://api.bananart.xyz"]}})
+from flask_cors import CORS
+
+CORS(app, resources={r"/*": {"origins": "https://bananart.xyz"}})
+
 
  # Update to the specific domain for security
 
