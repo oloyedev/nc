@@ -9,6 +9,7 @@ CORS(app, resources={r"/*": {"origins": ["https://bananart.xyz"]}})
 
  # Update to the specific domain for security
 
+
 # List of eligible Solana wallet addresses
 ELIGIBLE_WALLETS = {
 'Qziy81oniKYEk7SVWbvWYFNDcpnDxvKvHbH14KF9YSj',
@@ -969,7 +970,31 @@ ELIGIBLE_WALLETS = {
 'GREfgU5GGRCJiBDnvsVnjDcyhzjSqBhFSpdSs4CdHB9V',
 '3VnHdf7YgirR7v3HpF94FNK5MsJH8FFSdP4zSBr5wH7i',
 'HFV31bD3bTiC6WQXW2Ln8NPvn64rAxYDFCuow8GtZHvJ',
-'torcBYdF73FCM2vWJLdNfDB82QJ8icESXq6NF4sRJB7'
+'torcBYdF73FCM2vWJLdNfDB82QJ8icESXq6NF4sRJB7',
+'6kMQikW3LUiHvi3UXSo5kjBgJBKRtPe6YUX97wR3SbVW',
+'9MRW2fQkkJX65eVgDAxJHU5JNQjCjpnbjuHS7HHpoNDY',
+'Fzz6zFkZtx4e5uub1NFb6ckUPHEfT5Jx4KpxAmjGfidf',
+'BRBPA9Va4JTbY6FrmYEYRpoMWD2CQDfXUZLLZRTAeBqu',
+'7HgciBTAh3GRCscaR6nz8XZGgYGDbJXXbmqLeojx3Zmh',
+'5KJ62urUjUYxqiRBxboZS9L4yc7pftpx8XwDJpnbQUmu',
+'ABUHmhqik2Swx2Gw1FcoaQJFsD3B6xJxeeGU4P59yJNm',
+'CCLUM6afcKtLvxoT9UNbj5Ut3Nn5FAQD9tagrdWhMUCp',
+'8qWqVDaQVHdY1wjgikvbULzhQGgYv1QjhgNd3mYZeqTD',
+'2y6paGSTtPrkqu6aMXkDBae3y9KszRL6wGe8mYCsmAhr',
+'G6AuE5BncYt3WjbFMYCFtVBgtrD2yHkwuGntJkdWiBzr',
+'6Ei1uFZZnHfR8paugZCKRQiyDno2HA9UqSbB96SxqWAW',
+'6Ei1uFZZnHfR8paugZCKRQiyDno2HA9UqSbB96SxqWAW',
+'7c6c56xPZuARLr55h1RCZX2t13uQwEbdmeZbgPTjqz2D',
+'3fPBbbtMVxFDNz49zHykK1xP3mX7dxmodHjsspqcFumm',
+'5XxGy8rb1We7AELUeCKBHLR9dY1RRHn1NUpLzvQ3Axiv',
+'CsgW21NFMxiYzwgMDfEhocTnmZ9AkyQxboX8FuR8SzvJ',
+'ANksWceWVYm8fZhjhPFGEawTYXpbRHPLsEL8HW7MxaD7',
+'HrbAiFoKiJFMFuVxnxf8QcLax3Vk8cPSYg92kYThKWxd',
+'1ryb91REQ4RSthm8YLjaTk5zuckfqyTEifwtWAtQoxR',
+'AexqVZxEsKSovTohfy5TrmvEDVojQt7yM54RaVBfhehM',
+'9k9vvqmThFJkDQVoQ7tLTkU5N5Behik8FeWMFmjU5a1W',
+'FBA7TMXXqvGEbE3zgEzA4TzX4LzfjJ1MwFkrfbFkjZtW',
+'EfcJjayx1wQDWSBdoAaxUMKKWv7xpTTki8hTZB1a9Rnt',
 
 }
 
