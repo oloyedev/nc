@@ -1018,6 +1018,21 @@ ELIGIBLE_WALLETS = {
     '3zrHS7oeVodq3aYx39oyz3aYudvoeoby2EV4eXPMjZyk',
     'A1Mb9oGWU3g51uucPJ6pxZbjRdTXVhg97N9ksBz11QB8',
     '8b89knt4xAToMDaMwggwGMScbrs5fZBAUrNEKKNqgrVD',
+    'AbjjnqsdxGrf5jxjBCwwTaKJDNpEoRfM9t9CEMPeB3yB',
+    '9EYSjcEBrXjJjGb524rzpF1xCe8ypH6jMHCSJWbCGBPn',
+    'HreZg68V6kUvHtLnWRF6bhuYXgymKnJyjxex99YyQ4fp',
+    '9LiRGrwZt7QctXkJ4gnZVRQhUG324rSXkRprKJGo6Uqk',
+    'DaEUSwoNzLMnimVRRYvz3TenyUbrqVq7HwhyihUb2w28',
+    '5BNjuZwyjHMLEaDtNPNsDBSU6CVs6D2QU31tUpXdjrok',
+    '35He4E5Z833jmWPHRUnZXP2QNVgPfeTdKDeNYJgQ2f5N',
+    '14QXHtUQzRNpH4szgyrtrqzwXop7ViyCnLoAfN65XkpW',
+    'aMGwYGB92wfnmmAB2PrWBqfFptzdo2THj4Ce22oPkkp',
+    'D36rRnM4Tho3XMZmGBwCyKZJ6u66Sqivg3JS1cCTx4UB',
+    'J8JJ28ofq78sAdCyuaP99eQVNMeNmz6fh51DXfg1hkzD',
+    '5kdjfUFHw3gCpoMrku3TtxXEqtet8sYaY8hPW5bASsFy',
+    '7WmULN2RzkWnmiSkoP2UdnqcPATszCvxN8L5B1RsBYUV',
+    'Hqj3sJBJb42PTneSrRh24nNsDgpYfCns5vscoFMnMCWk',
+    '451nHwCSVU6vwqFcKoKGZQUU8L9aEiKARq57oyLobfbp',
 
 }
 
