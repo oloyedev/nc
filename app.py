@@ -1033,6 +1033,7 @@ ELIGIBLE_WALLETS = {
     '7WmULN2RzkWnmiSkoP2UdnqcPATszCvxN8L5B1RsBYUV',
     'Hqj3sJBJb42PTneSrRh24nNsDgpYfCns5vscoFMnMCWk',
     '451nHwCSVU6vwqFcKoKGZQUU8L9aEiKARq57oyLobfbp',
+    'AyfTi2nYPu9zVUXFWcfHxXpLGkNtYsmP3oiaRUn4WTP'
 
 }
 
