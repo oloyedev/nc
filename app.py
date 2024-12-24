@@ -3,12 +3,15 @@ from flask_cors import CORS
 import os
 
 app = Flask(__name__)
-CORS(app, resources={r"/*": {"origins": "*"}}) 
+from flask_cors import CORS
+
+CORS(app, resources={r"/*": {"origins": ["https://bananart.xyz", "https://api.bananart.xyz"]}})
+
  # Update to the specific domain for security
 
 # List of eligible Solana wallet addresses
 ELIGIBLE_WALLETS = {
-    'Qziy81oniKYEk7SVWbvWYFNDcpnDxvKvHbH14KF9YSj',
+'Qziy81oniKYEk7SVWbvWYFNDcpnDxvKvHbH14KF9YSj',
 '67pZkUzSyBhYtnP9qnGCbpJ3chC6vaSPgBFVR1mEkbFW',
 '91dPKDR118PUrMH4Fh6xA2zBoKP8Z1ffi3eQZ6et44B9',
 'CqbHMX43wSzZWZnGrQvidNykxvhw9jVydMiFXiZRSQco',
@@ -966,7 +969,7 @@ ELIGIBLE_WALLETS = {
 'GREfgU5GGRCJiBDnvsVnjDcyhzjSqBhFSpdSs4CdHB9V',
 '3VnHdf7YgirR7v3HpF94FNK5MsJH8FFSdP4zSBr5wH7i',
 'HFV31bD3bTiC6WQXW2Ln8NPvn64rAxYDFCuow8GtZHvJ',
-'torcBYdF73FCM2vWJLdNfDB82QJ8icESXq6NF4sRJB7',
+'torcBYdF73FCM2vWJLdNfDB82QJ8icESXq6NF4sRJB7'
 
 }
 
