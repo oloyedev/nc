@@ -1,8 +1,10 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
+import os
 
 app = Flask(__name__)
-CORS(app, resources={r"/*": {"origins": "*"}})  # Update to the specific domain for security
+CORS(app, resources={r"/*": {"origins": "*"}}) 
+ # Update to the specific domain for security
 
 # List of eligible Solana wallet addresses
 ELIGIBLE_WALLETS = {
@@ -25,4 +27,5 @@ def check_eligibility():
         return jsonify({"success": True, "eligible": False, "message": "Wallet is not eligible"})
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 5000)))
+
